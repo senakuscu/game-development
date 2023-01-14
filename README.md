@@ -1,2 +1,1 @@
-# game-development
-game-development
+# bakircay-game-development-course
